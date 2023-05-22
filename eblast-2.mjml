@@ -1,0 +1,257 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text font-family="Helvetica, sans-serif" font-size="15px" line-height="24px" font-weight="300" />
+      <mj-section background-color="#ffffff" />
+    </mj-attributes>    
+    <mj-title>Come Ready for a Party!</mj-title> 
+    <mj-style>     
+      .email-text--white table,
+      .email-text--white td,
+      .email-text--white tr,
+      .email-text--white tbody {
+          color: white !important;
+      }
+      
+      .email-text--white div {
+          color: white !important;
+      }
+      
+      .email-text--white {
+          color: white !important;
+      }
+      
+      .name-title div {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        background-color: #f5a623;
+      }
+      
+      .lgw-title div {
+         font-family: "Helvetica, sans-serif" !important; 
+         font-size: 19px !important;
+         line-height: 22px !important;
+         font-weight: 700 !important;
+      }
+      
+      @media screen and (min-width:400px) {     
+         .email-text {
+            padding-right: 85px !important;
+         }
+      }
+      
+      .background-blue {
+        background-color: #093770;
+      }
+      
+      .background-blue table {
+           background-image: url("https://cdn.abcdandcompany.com/lgw/eblast-background-azure-big.png");
+           background-repeat: no-repeat;
+           background-size: 350% !important;
+      }
+      
+      .background-blue > table > tbody > tr > td {
+        padding: 0 !important;
+      }
+      
+      @media screen and (min-width:300px) {
+         .background-blue table {
+           background-size: 700% !important;
+         }   
+      }
+      
+      @media screen and (min-width:400px) {
+         .background-blue table {
+           background-size: 600% !important;
+         }   
+      }
+      
+      @media screen and (min-width:500px) {
+         .background-blue table {
+           background-size: 500% !important;
+         }   
+      }
+      
+      @media screen and (min-width:590px) {
+         .background-blue table {
+           background-size: 255% !important;
+         }   
+      }
+      
+     
+      
+      .background-azure {
+        background-color: #00a8a3 !important;
+      }
+      
+      .background-azure table {
+           background-color: #00a9a5 !important;
+           /* background-image: url("https://cdn.abcdandcompany.com/lgw/eblast-background-azure.png"); */
+           background-repeat: no-repeat;
+           background-size: 300% !important;
+      }
+      
+      .background-azure > table > tbody > tr > td {
+        padding: 0 !important;
+        
+      }
+      
+      @media screen and (min-width:300px) {
+         .background-azure table {
+           background-size: 300% !important;
+         }   
+      }
+      
+      @media screen and (min-width:400px) {
+         .background-azure table {
+           background-size: 300% !important;
+         }   
+      }
+      
+      @media screen and (min-width:500px) {
+         .background-azure table {
+           background-size: 170% !important;
+         }   
+      }
+      
+      @media screen and (min-width:590px) {
+         .background-azure table {
+           background-size: 150% !important;
+         }   
+      } 
+        
+      
+      .social-block div{
+        background-color: #ffffff !important;
+        width: 250px !important;
+      }
+      
+      
+    </mj-style>
+  </mj-head>
+  <mj-body>
+
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://cdn.abcdandcompany.com/lgw/lgw-logo.png" href="https://lgwdc.org" alt="" align="center" border="none" padding-bottom="5px" width="140px"></mj-image>
+        <mj-image src="https://cdn.abcdandcompany.com/lgw/lgw-title.png" href="https://lgwdc.org/awardsdinner" alt="" align="center" border="none" padding-right="40px" padding-bottom="15px" width="525px"></mj-image>
+        <mj-text align="center" color="#e87200" padding="25px 10px 15px 10px" background-color="#ffffff" font-size="28px" line-height="40px" font-weight="700">Celebrate With Us Tomorrow!</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section css-class="background-azure">
+      <mj-column width="60%">
+        <mj-text align="left" color="#17406a" font-size="17px" line-height="26px" font-weight="300" padding-top="35px"><strong><span color="#17406a" style="color: #17406a !important; background-color: #ffffff; padding-left: 10px; padding-right: 10px; padding-top: 5px; padding-bottom: 5px; margin-right: 10px;">Reminder</span><span style="display:inline-block; line-height: 45px;">October&nbsp;10th&nbsp;|&nbsp;6:45&nbsp;PM</span></strong></mj-text>
+        
+        <mj-text align="left" color="#ffffff" font-size="15px" line-height="24px" font-weight="300">We look forward to celebrating our incomparable Leader of the Years honoree Artis Hampshire-Cowan ('89).</mj-text>
+        <mj-text align="left" color="#ffffff" font-size="15px" line-height="24px" font-weight="300">She is the quintessential bridge-builder and community advocate. Artis’s work has made an indelible positive impression on our region through her exemplary career accomplishments and profound civic service.</mj-text>
+         <mj-text align="left" color="#ffffff" font-size="15px" line-height="24px" font-weight="300" padding-bottom="25px">She is truly a leader of the years, and we are thrilled to bring you together Saturday to honor Artis for her ingenuity, commitment and exceptional community impact.</mj-text>
+      </mj-column>
+      <mj-column width="40%" css-class="background-azure-right-column" padding-top="30px">
+        <mj-image src="https://cdn.abcdandcompany.com/lgw/eblast-photo.png" align="center" border="5px solid #008f96" fluid-on-mobile="true"></mj-image>
+        <mj-text css-class="name-title" align="center" color="#ffffff" font-size="11px" line-height="19px" font-weight="700" padding-bottom="25px"><span color="#f9f7f7" style="color: #f9f7f7 !important">Artis Hampshire-Cowan (‘89)</span></mj-text>
+      </mj-column>
+    </mj-section>
+    
+    
+    <mj-section padding-top="30px" padding-bottom="10px" padding-left="15px">
+      <mj-column background-color="#17406a">
+        <mj-text align="left" color="#ffffff" font-size="19px" line-height="22px" font-weight="700" padding-right="0" padding-left="10px">How to Access the Event</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="10px" padding-bottom="0">
+      <mj-column>
+        <mj-button font-family="Helvetica" background-color="#008f96" color="white" font-size="19px" line-height="22px" font-weight="700">
+          Step One
+        </mj-button>
+        <mj-text css-class="email-text" align="left" font-size="15px" line-height="24px" font-weight="300" color="#000000">Use a laptop or desktop and ensure that you have the most recent version (5.3.1) of the Zoom app downloaded on your computer to participate in the networking session. Use <a href="https://zoom.us/download">this link</a> to download the most recent version.</mj-text>
+        <mj-text css-class="email-text" align="left" font-size="15px" line-height="24px" font-weight="300" color="#000000">When the Zoom Download Center opens in your web browser, download “Zoom Client for Meetings.”</mj-text>
+        <mj-text css-class="email-text" align="left" font-size="15px" line-height="24px" font-weight="300" color="#000000">Create a login if you do not have one. When viewing the Celebration of Leadership, use the button at the top of the Zoom window to view in full screen. The button displays 4 arrows and is located at the top right of the Zoom window.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="10px" padding-bottom="0">
+      <mj-column>
+        <mj-button font-family="Helvetica" background-color="#008f96" color="white" font-size="19px" line-height="22px" font-weight="700">
+          Step Two
+        </mj-button>
+        <mj-text css-class="email-text" align="left" font-size="15px" line-height="24px" font-weight="300" color="#000000">Click the link below that says, “Access the Event.” The link will open a web browser, where you will see a prompt asking if you would like to view in the Zoom App. Click “Yes” to be redirected to the Zoom app, where the meeting will automatically open.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="10px" padding-bottom="0">
+      <mj-column>
+        <mj-button font-family="Helvetica" background-color="#008f96" color="white" font-size="19px" line-height="22px" font-weight="700">
+          Step Three
+        </mj-button>
+        <mj-text css-class="email-text" align="left" font-size="15px" line-height="24px" font-weight="300" color="#000000">When the Zoom meeting opens, make sure your screen is in “speaker view” by clicking the button at the top right corner of the Zoom window. Enjoy the celebration!</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="10px" padding-bottom="5px">
+      <mj-column>
+        <mj-button font-family="Helvetica, sans-serif" font-weight="700" font-size="20px" line-height="22px" inner-padding="8px 10px 5px 10px" padding-bottom="20px" background-color="#e87200" color="white" href="https://zoom.us/j/98091619739">
+          <span color="#f9f7f7" style="color: #f9f7f7 !important">ACCESS THE EVENT</span>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    
+
+    <mj-section css-class="background-blue" background-color="#093770">
+      <mj-column width="100%" background-color="#093770">
+        <mj-text align="center" color="#f9f7f7" padding="40px 20px 0 20px" font-family="Helvetica, sans-serif" font-weight="600" font-size="28px" line-height="30px"><span style="color: #f9f7f7 !important;" background-color="#093770">How to Engage</span></mj-text>
+        
+         <mj-text align="left" color="#17406a" font-size="18px" line-height="26px" font-weight="300" padding-top="35px"><strong><span color="#17406a" style="color: #17406a !important; background-color: #ffffff; padding-left: 10px; padding-right: 10px; padding-top: 5px; padding-bottom: 5px;">Pre-Event Social</span></strong></mj-text>
+        <mj-text css-class="email-text email-text--white" align="left" color="#ffffff" font-size="15px" line-height="24px" font-weight="300"><span color="#f9f7f7" style="color: #f9f7f7 !important" background-color="#093770">Celebrate Artis Hampshire-Cowan’s achievements with our signature drink for the evening – and her favorite – the Kentucky Mule! For your celebratory drink you will need the following ingredients: 1 oz. Bourbon (optional), ½ oz. fresh lime juice, Ginger Beer, Lime Wedge, Mint Sprig, and Ice. Show off your mixology skills and raise a toast to Artis!</span></mj-text>
+        
+        <mj-text align="left" color="#17406a" font-size="18px" line-height="26px" font-weight="300" padding-top="35px"><strong><span color="#17406a" style="color: #17406a !important; background-color: #ffffff; padding-left: 10px; padding-right: 10px; padding-top: 5px; padding-bottom: 5px;">Dress Code</span></strong></mj-text>
+        <mj-text css-class="email-text email-text--white" align="left" color="#ffffff" font-size="15px" line-height="24px" font-weight="300"><span color="#f9f7f7" style="color: #f9f7f7 !important" background-color="#093770">The dress code is festive semi-formal attire. This is the chance you have been waiting for to pullout your evening wear and dress to celebrate. Put on a festive hat, accessorize, or get glammed-up. Let your personal style shine, especially neck up!</span></mj-text>
+        
+        <mj-text align="left" color="#17406a" font-size="18px" line-height="26px" font-weight="300" padding-top="35px"><strong><span color="#17406a" style="color: #17406a !important; background-color: #ffffff; padding-left: 10px; padding-right: 10px; padding-top: 5px; padding-bottom: 5px;">Post-Event Networking</span></strong></mj-text>
+        <mj-text css-class="email-text email-text--white" align="left" color="#ffffff" font-size="15px" line-height="24px" font-weight="300"><span color="#f9f7f7" style="color: #f9f7f7 !important" background-color="#093770">The Celebration of Leadership brings our region’s visionary influencers together like no other event. Take advantage of this unique opportunity to connect and mingle with the dynamic and collaborative LGW community and our guests!</span></mj-text>
+        <mj-text css-class="email-text email-text--white" align="left" color="#ffffff" font-size="15px" line-height="24px" font-weight="300"><span color="#f9f7f7" style="color: #f9f7f7 !important" background-color="#093770">At the end of the program, join a networking session by clicking the “Breakout Rooms” button in the toolbar at the bottom of the Zoom window. When the list of breakout rooms pops up, click the blue number to the right side of the breakout room you would like to visit. You can switch between different rooms by clicking the “Breakout Rooms” toolbar, then clicking “Choose Breakout Room.”</span></mj-text>
+        <mj-text css-class="email-text email-text--white" align="left" color="#ffffff" font-size="15px" line-height="24px" font-weight="300" padding-bottom="35px"><span color="#f9f7f7" style="color: #f9f7f7 !important" background-color="#093770">DJ Stylus – the Vibe Conductor, will set the tone for our dance party.He is connected to the rhythm and soul of our region and will create magic on the turntables throughout the evening to get us in the spirit of celebrating the extraordinary LGW community. Stay around for the afterparty and bring your loved ones into the room for a dance party!</span></mj-text>
+        
+        
+        <mj-text css-class="social-block" align="center" color="#333333" font-size="13px" line-height="24px" font-weight="300" padding-bottom="25px">
+          
+          <div style="display: inline-block; width: 250px !important"><span align="center" color="#e87200" style="display: inline-block; color: #e87200 !important; font-size: 18px; line-height: 35px; font-weight: 700; padding-top: 15px; padding-bottom: 10px;">Engage on Social Media</span></div>
+          
+          <div style="display: inline-block; width: 250px !important; padding-bottom: 20px">Download the toolkit <a href="https://lgwdc.org/2020-lgw-celebration-of-leadership-social-media-toolkit" style="display: inline-block; text-decoration: none; background-color: #e87200; line-height: 21px !important;"><span color="white" style="color: white !important; padding: 10px 5px !important; font-weight: 500 !important; font-size: 13px !important;">HERE</span></a></div>
+          
+        </mj-text>
+        
+        <mj-social font-size="15px" icon-size="40px" mode="horizontal" css-class="social-block-2" align="center" color="#333333" font-size="13px" line-height="24px" font-weight="300" padding-bottom="35px" padding-top="0">
+          <mj-social-element name="facebook-noshare" href="https://www.facebook.com/LeadershipGreaterWashington/">
+          </mj-social-element>
+          <mj-social-element  name="twitter-noshare" href="https://twitter.com/lgwdc">
+          </mj-social-element>
+          <mj-social-element name="instagram-noshare" href="https://instagram.com/lgwdc">
+          </mj-social-element>
+          <mj-social-element  name="linkedin-noshare" href="http://www.linkedin.com/company/leadership-greater-washington">
+          </mj-social-element>    
+        </mj-social>
+         
+        
+      </mj-column>
+    </mj-section>
+    
+    <mj-section padding-top="30px" padding-bottom="10px" padding-left="15px">
+      <mj-column background-color="#4cbea1">
+        <mj-text align="left" color="#ffffff" font-size="19px" line-height="22px" font-weight="700" padding-right="0" padding-left="10px">Our Team Is Here to Help</mj-text>
+      </mj-column>
+    </mj-section>
+    
+     <mj-section padding-top="0px" padding-bottom="40px">
+      <mj-column>
+        <mj-text css-class="email-text" align="left" color="#333333" font-size="15px" line-height="24px" font-weight="300">Have a question or need additional information? Contact our event production and support team via email at <strong><a href="mailto:events@abcdandcompany.com" style="text-decoration: none; color: #333333">events@abcdandcompany.com</a></strong> or phone at <strong><a href="tel:3013485260" style="text-decoration: none; color: #333333">(301) 348-5260</a>.</strong></mj-text>
+        <mj-text css-class="email-text" align="left" color="#333333" font-size="15px" line-height="24px" font-weight="300">We look forward to celebrating with you!</mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section  padding-top="0" padding-bottom="0" background-url="https://cdn.abcdandcompany.com/lgw/eblast-footer-2.png" background-repeat="no-repeat" background-size="100% 115%">
+      <mj-column vertical-align="bottom">
+        <mj-text css-class="footer-wave" height="100px"></mj-text>
+      </mj-column>
+    </mj-section>
+    
+  </mj-body>
+</mjml>
